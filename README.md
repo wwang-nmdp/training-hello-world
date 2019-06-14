@@ -1,2 +1,2 @@
-# training-hello-word
+# training-hello-world
 training session purpose
